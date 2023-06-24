@@ -1,4 +1,4 @@
-<p align="center"><a href="" target="_blank"><img src="" width="100"></a></p>
+
 
 
 ## Membuat Aplikasi CRUD Laravel + AdminLTE
